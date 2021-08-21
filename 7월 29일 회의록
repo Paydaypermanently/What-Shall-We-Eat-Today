@@ -1,0 +1,16 @@
+7월 29일 목 회의록
+
+-AWS: Ubuntu서버 인스턴스 생성, MobaxTerm, mac termical 사용해서 연결 테스트 완료. node.js 로 서버 실행 테스트 완료 
+
+-서버 키는 법:
+1)모바 엑스텀에서 Server_key가 있는 ICT_project 파일로 들어간다.  
+2)ssh -i "Server_key.pem" ubuntu@ec2-3-35-207-253.ap-northeast-2.compute.amazonaws.com 명령어 입력. 3)http://3.35.207.253:3000/ 로 들어가 확인 가능. 
+
+-역할 수정:
+#프론트 앤드: 김이현, 오태양
+#백앤드, DB: 이춘호
+
+-다음 주 회의까지 할 일 :
+#김이현, 오태양: node.js 공부 및 root 페이지 레이아웃 
+#이춘호: DB연동
+다음 주 회의는 8월 4일 수요일 예정.
